@@ -9,7 +9,7 @@ import java.sql.*;
 
 /**
  *
- * @author USUARIO
+ * @author alumno
  */
 public class ClsConexion {
     private static final String JDBC_URL = "jdbc:mysql://localhost:3306/pokedex?zeroDateTimeBehavior=convertToNull&useSSL=false&useTimezone=true&serverTimezone=UTC";
