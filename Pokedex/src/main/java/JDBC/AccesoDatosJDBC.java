@@ -13,7 +13,7 @@ import java.sql.Statement;
 
 /**
  *
- * @author USUARIO
+ * @author alumno
  */
 public class AccesoDatosJDBC {
     private static String SQL_SELECT = "SELECT * FROM ";
