@@ -22,7 +22,7 @@ import java.applet.AudioClip;
 
 /**
  *
- * @author USUARIO
+ * @author alumno
  */
 public class VentanaPokedex extends javax.swing.JFrame {
     private final String relleno = "- - - - - - - ";
